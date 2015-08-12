@@ -8,6 +8,10 @@ Introduction
 EdpModuleLayouts is a very simple ZF2 module (less than 20 lines) that simply
 allows you to specify alternative layouts to use for each module.
 
+Instlation 
+-----
+`php composer.phar require evandotpro/edp-module-layouts`
+
 Usage
 -----
 
